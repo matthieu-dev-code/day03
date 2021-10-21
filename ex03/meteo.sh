@@ -1,0 +1,1 @@
+00 08 * * 0-5 curl http://wttr.in/Lyon > Documents/GitHub/day03/ex03/meteo/meteoOfTheDay.txt
